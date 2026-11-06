@@ -30,3 +30,4 @@
 | HyperSteer: Activation Steering at Scale with Hypernetworks  | [paper](https://arxiv.org/pdf/2506.03292) [code](https://github.com/stanfordnlp/axbench) | Hyper                            | ![image](./assets/image-20251028195706448.png) |
 | Denoising Concept Vectors with Sparse Autoencoders for Improved Language Model Steering | [paper](https://arxiv.org/pdf/2505.15038)                    | SDCV                             | ![image](./assets/image-20251028195927498.png) |
 | KV Cache Steering for Controlling Frozen LLMs                | [paper](https://arxiv.org/pdf/2507.08799)                    | KV-Cache                         | ![image](./assets/image-20251028200008244.png) |
+| Beyond Linear Activation Steering: Invertible Latent Transformations for Controlling LLM Behavior | [paper](https://arxiv.org/abs/2606.08454) [code](https://github.com/nguyentuc/INNSteer) | INNSteer (NeurIPS 2026 Spotlight) |  |
